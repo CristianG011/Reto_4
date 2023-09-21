@@ -24,6 +24,10 @@ Definimos, el valor es igual a cero entonces imprima "El número x es el neutro 
 Bien lo primero que tenemos que saber es que la ecuación de la circunferencia es (x-a)²+(y-b)²=r², teniendo esto en cuenta sabes que si el resutado es mayor al radio quiere decir que se sale de los limites de la misma, si es igual quieres decir que está en el boceto y si es menor quiere decir que está dentro de la circunferencia.
 fuente formula:(#https://es.khanacademy.org/math/geometry/xff63fac4:hs-geo-conic-sections/hs-geo-circle-standard-equation/v/writing-standard-equation-of-circle#:~:text=Dado%20un%20c%C3%ADrculo%20en%20el,(y%2Db)%C2%B2%3Dr%C2%B2.)
 ![](https://i.ibb.co/7Qt2b5k/RETO-4-IMAGEN-5.jpg)
+# Reto_4 parte 6
+6.Dadas tres longitudes positivas, determinar si con esas longitudes se puede construir un triángulo.
+Bien según (https://media.educacioncampeche.gob.mx/) "Para poder construir un triángulo, la suma de la medida de dos de sus lados debe ser mayor a la medida del tercer lado." por lo tanto:
+![](https://i.ibb.co/tmfFHkG/RETO-4-IMAGEN-6a.jpg)
 
 
 
